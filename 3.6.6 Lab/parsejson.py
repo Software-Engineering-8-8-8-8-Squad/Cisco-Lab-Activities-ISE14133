@@ -1,7 +1,7 @@
 import json
 import yaml  # You might need to install this with pip
 
-with open('parsing_assignment/myfile.json', 'r') as json_file:
+with open('3.6.6 Lab/myfile.json', 'r') as json_file:
     ourjson = json.load(json_file)
 
 print(ourjson)

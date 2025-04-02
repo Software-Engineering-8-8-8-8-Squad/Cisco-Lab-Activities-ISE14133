@@ -1,7 +1,7 @@
 import yaml
 import json
 
-with open('parsing_assignment/myfile.yaml', 'r') as yaml_file:
+with open('3.6.6 Lab/myfile.yaml', 'r') as yaml_file:
     ouryaml = yaml.safe_load(yaml_file)
 
 print(ouryaml)

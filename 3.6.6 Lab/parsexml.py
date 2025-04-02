@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import re
 
-xml = ET.parse("parsing_assignment/myfile.xml")
+xml = ET.parse("3.6.6 Lab/myfile.xml")
 root = xml.getroot()
 
 ns = re.match(r'{.*}', root.tag).group(0)
