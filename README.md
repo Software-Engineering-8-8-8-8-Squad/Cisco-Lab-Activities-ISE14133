@@ -1,27 +1,53 @@
-# Software Engineering Activities Repository
+# 🚀 Cisco Dev Networking Academy Lab Activities - Abdulloh
 
-Welcome to our GitHub repository for the Software Engineering (ISE4133) class at the Cisco Developers' Networking Academy!
+## 📘 Overview
+This repository contains my solutions and activities for the Cisco Dev Networking Academy Software Engineering class.
 
-## 📚 About This Project
-This repository is used by our team to complete class activities, exercises, and collaborative software engineering projects. Each team member has their own branch named after them to work independently while contributing to the overall progress of the team.
+## 🛠️ Environment
+- **Language:** Python 3.10
 
-## 🔀 Branch Structure
-- `main` — Central branch containing the combined and final versions of activities.
-- `[name]` — Individual branches for each team member (`abdulloh`, `botagoz`, `nazarbek`, `eldar`, `adinai`) where personal contributions and assignments are developed before merging.
+## 📁 Structure
+```
+student_id/
+├── lab1/
+│   └── solution.py
+├── lab2/
+│   └── solution.py
+├── requirements.txt
+└── README.md
+```
 
-## 🔧 How We Work
-1. Each member develops their work in their respective branch.
-2. After completing an activity, a pull request is made to merge into `main`.
-3. Code is reviewed, discussed, and merged after approval.
+## 📦 Requirements
+Install required Python packages from `requirements.txt`:
+```bash
+pip install -r requirements.txt
+```
 
-## ✅ Goals
-- Apply collaborative development practices
-- Gain experience with Git workflows
-- Document and track progress of class assignments
+## 💻 Instructions
 
-## 📎 Notes
-Please check individual branches for ongoing work and in-progress activities.
+### 🔧 Setting up Python 3.10
+Make sure Python 3.10 is installed:
+```bash
+python3.10 --version
+```
+
+If not installed, download from the official website:
+- [Python 3.10 Download](https://www.python.org/downloads/release/python-3100/)
+
+### ▶️ Running Scripts
+Navigate to the lab directory:
+```bash
+cd CISCO_LAB_ACTIVITIES_ISE14133/[lab_number]
+```
+
+
+## 🤝 Contributions
+Feel free to clone the repository and use it as reference. Any contributions or suggestions are welcomed.
+
+## 📫 Contact
+For questions or clarifications, reach out via my academy email `abdullohshabonov03@gmail.com` or through the Cisco Networking Academy platform.
+
 
 ---
+*Completed as part of the Cisco Dev Networking Academy Software Engineering course.*
 
-💡 For any questions or issues, feel free to reach out via GitHub Discussions or Issues tab.
