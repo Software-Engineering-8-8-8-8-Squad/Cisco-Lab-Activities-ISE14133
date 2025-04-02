@@ -7,7 +7,7 @@ This repository is used by our team to complete class activities, exercises, and
 
 ## 🔀 Branch Structure
 - `main` — Central branch containing the combined and final versions of activities.
-- `[name]` — Individual branches for each team member (`abdulloh`, `botagoz`, `nazarbek`, `eldar`, `adinai`) where personal contributions and assignments are developed before merging.
+- `[student_id]` — Individual branches for each team member (`abdulloh`, `botagoz`, `nazarbek`, `eldar`, `adinai`) where personal contributions and assignments are developed before merging.
 
 ## 🔧 How We Work
 1. Each member develops their work in their respective branch.
