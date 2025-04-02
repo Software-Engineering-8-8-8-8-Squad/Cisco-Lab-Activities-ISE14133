@@ -8,9 +8,9 @@ This repository contains my solutions and activities for the Cisco Dev Networkin
 
 ## 📁 Structure
 ```
-student_id/
+repo-folder/
 ├── lab1/
-│   └── solution.py
+│   └── solution.py  
 ├── lab2/
 │   └── solution.py
 ├── requirements.txt
@@ -39,13 +39,16 @@ Navigate to the lab directory:
 ```bash
 cd CISCO_LAB_ACTIVITIES_ISE14133/[lab_number]
 ```
+```bash
+python3 solution.py
+```
 
 
 ## 🤝 Contributions
 Feel free to clone the repository and use it as reference. Any contributions or suggestions are welcomed.
 
 ## 📫 Contact
-For questions or clarifications, reach out via my academy email `abdullohshabonov03@gmail.com` or through the Cisco Networking Academy platform.
+For questions or clarifications, reach out via my academy email abdullohshabonov03@gmail.com or through the Cisco Networking Academy platform.
 
 
 ---
