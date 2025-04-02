@@ -1,0 +1,4 @@
+I am trying to get started with Cisco DevNet lab activities
+I have added additional line to the file
+Now I started to understand the GIT
+I can push/pull, change the file and merge them with original ones now !
