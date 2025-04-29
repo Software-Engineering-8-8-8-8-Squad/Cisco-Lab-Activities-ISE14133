@@ -1,8 +1,6 @@
 import requests
 import urllib.parse
 import json
-import sys
-import time
 import os
 from datetime import timedelta
 
@@ -200,7 +198,7 @@ def main():
                 break
             
             if vehicle not in profiles:
-                print(f"No valid vehicle profile was entered. Using the car profile.")
+                print("No valid vehicle profile was entered. Using the car profile.")
                 vehicle = "car"
             
             # Get starting location
